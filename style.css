@@ -1,0 +1,144 @@
+html {
+    background-color: #30348C;
+}
+
+body {
+    background-color: #30348C;
+}
+
+h1 {
+    font-family: 'Caprasimo';
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    letter-spacing: 1em;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner-img {
+    opacity: 0.8;
+    position: relative;
+    top: 0px;
+    border: 3px solid black;
+    height: 474px;
+    width: 1193px;
+    margin: 0 auto;
+}
+
+.banner-content {
+    position: relative;
+    bottom: 500px;
+    right: 240px;
+    text-align: center;
+}
+
+.bannerWrap {
+    background-color: #A6BE78;
+}
+
+.colorWrap {
+    text-align: center;
+    padding: 20px;
+    background-color: #30348C;
+}
+
+.colorWrap li {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.fontWrap {
+    text-align: center;
+    background-color: #CC5451;
+    margin-top: 50px;
+}
+
+.styleWrap {
+    text-align: center;
+    background-color: #A6BE78;
+}
+
+.styleWrap p {
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif
+}
+
+#desG, #desS, #desB {
+    display: inline-block;
+    text-align: left;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 350px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 2em;
+    vertical-align: top;
+}
+
+#caprasimo, #oswald, #dmSans {
+    display: inline-block;
+    vertical-align: top;
+    width: 720px;
+}
+
+#desG {
+    background-color: #A6BE78;
+    margin-right: 10px;
+}
+
+#desS {
+    background-color: #CC5451;
+}
+
+#desB {
+    background-color: #30348C;
+    margin-left: 10px;
+}
+
+#caprasimo h3 {
+    font-family: 'Caprasimo', cursive;
+}
+
+#oswald h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#dmSans h3 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+#caprasimo p {
+    font-family: 'Caprasimo', cursive;
+    font-size: 30px;
+}
+
+#oswald p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+#dmSans p {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 30px;
+}
+
+#styleH2 h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
